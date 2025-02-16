@@ -10,4 +10,6 @@ You'll need to also download:
 
 https://github.com/nicklasorte/general_terrestrial_pathloss
 
+https://github.com/nicklasorte/Generic_Bugsplat
+
 https://github.com/nicklasorte/Basic_Functions
